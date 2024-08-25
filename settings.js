@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Rulz'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://Mongodb-Rulz:<db_password>@cluster0.pworl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "bkup206@gmail.com" //email
 global.email_password = "fdsx pwqy liaq kknh" //application password email
